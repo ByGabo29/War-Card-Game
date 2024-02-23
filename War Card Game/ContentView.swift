@@ -111,7 +111,7 @@ struct ContentView: View {
             CPUCardValue += 1
             print("Log: Tie")
         }
-        
+        //sends log success
         print("Log: Success")
     }
 }
